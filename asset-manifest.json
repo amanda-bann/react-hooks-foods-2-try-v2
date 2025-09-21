@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-hooks-foods-2-try-v2/static/css/main.4c2cb77b.css",
+    "main.js": "/react-hooks-foods-2-try-v2/static/js/main.35683fe4.js",
+    "index.html": "/react-hooks-foods-2-try-v2/index.html",
+    "main.4c2cb77b.css.map": "/react-hooks-foods-2-try-v2/static/css/main.4c2cb77b.css.map",
+    "main.35683fe4.js.map": "/react-hooks-foods-2-try-v2/static/js/main.35683fe4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c2cb77b.css",
+    "static/js/main.35683fe4.js"
+  ]
+}
